@@ -1,2 +1,11 @@
-# C-Modern-Approach-Solutions
-My journey through "C Programming: A Modern Approach" by K.N. King. This repository contains the programming projects. All solutions are my own work as I progress through each chapter.  Feedback and suggestions welcome!
+# C Programming: A Modern Approach Solutions
+
+My journey with K.N. King's "C Programming: A Modern Approach". 
+This repository has the solutions to the book's programming exercises.
+The solutions here are written by me as I progress through each chapter.
+
+
+## My Setup
+- Editor: Vim
+- Compiler: gcc
+- Workflow: Terminal only
