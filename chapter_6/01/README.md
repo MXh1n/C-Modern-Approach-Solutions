@@ -19,7 +19,7 @@ So the basic idea is:
 - We store the input number in a variable called (num)
 - we initialize a variable which will store the largest number (largest_num)
 - we use a while loop so that the user gets to input number until entered 0
-- finally we use a logic that if the (largest_num) variable is less than (num) we then only largest_num = num
+- finally we use a logic that if the (largest_num) variable is less than (num), then only largest_num = num
 
 ## Solution
 See ex_1.c
