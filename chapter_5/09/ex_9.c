@@ -2,8 +2,8 @@
 
 int main(void){
 
-    int month1, day1, year1;
-    int month2, day2, year2;
+    int month1, day1, year1; //variables for date 1
+    int month2, day2, year2; //variables for date 2
     
     printf("Enter first date (mm/dd/yy): ");
     scanf("%2d/%2d/%2d", &month1, &day1, &year1);
