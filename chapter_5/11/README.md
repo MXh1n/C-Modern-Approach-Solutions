@@ -1,4 +1,6 @@
-# 11. Write a program that asks the user for a two-digit number, then prints the English word for the number:
+# Chapter 5 question 11 
+
+Write a program that asks the user for a two-digit number, then prints the English word for the number:
 
 ```
 Enter a two-digit number: 45.
