@@ -17,7 +17,7 @@ and copy the remainder into n. Then repeat the process, starting with testing wh
 - the two integers will be stored in m and n
 - m % n will gives us remainder
 - m will become n (m = n) and n will be the remainder (n = remainder)
-- repeat (So we require a loop) unit n = 0, then m = greatest common divisor
+- repeat (So we require a loop) until n = 0, then m = greatest common divisor
 
 ## Solution
 See ex_2.c
